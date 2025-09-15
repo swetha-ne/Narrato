@@ -1,9 +1,9 @@
-import React from 'react'
+
 
 const ReaderDashboard = () => {
   return (
     <div>
-      
+      reader dasboard
     </div>
   )
 }

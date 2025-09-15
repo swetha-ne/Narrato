@@ -1,9 +1,9 @@
-import React from 'react'
+
 
 const WriterDashboard = () => {
   return (
     <div>
-      
+      witerdashboard
     </div>
   )
 }

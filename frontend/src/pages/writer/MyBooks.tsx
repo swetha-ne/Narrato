@@ -1,9 +1,9 @@
-import React from 'react'
+
 
 const MyBooks = () => {
   return (
     <div>
-      
+      mybook page
     </div>
   )
 }
